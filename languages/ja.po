@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2013-07-17 19:22+0900\n"
+"PO-Revision-Date: 2013-07-17 19:22+0900\n"
+"Last-Translator: Webnist <webnist@webnist.org>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:5
+msgid "Found article you are looking for."
+msgstr "お探しのページは見つかりません"
+
+#: 404.php:8
+msgid ""
+"The requchefed content was not found. You may find if you search for "
+"relevant posts."
+msgstr ""
+"指定されたページは存在しません。URLが正しく入力されているか、確認してくださ"
+"い。<br>一時的な問題によりサーバにアクセス出来ない可能性があります。しばらく"
+"してからもう一度お試しください。<br><a href=\"/\">≫トップページヘ戻る</a>"
+
+#: content.php:4 functions.php:202 functions.php:439
+#, php-format
+msgid "Permalink to %s"
+msgstr "パーマリンク: %s"
+
+#: footer.php:7
+msgid "Twitter"
+msgstr ""
+
+#: footer.php:12
+msgid "Facebook"
+msgstr ""
+
+#: footer.php:18
+msgid "To participate in the JAWS FESTA Kansai 2013"
+msgstr "JAWS FESTA Kansai 2013 に参加する"
+
+#: footer.php:19
+msgid "Tickets"
+msgstr ""
+
+#: functions.php:97
+msgid "What's new"
+msgstr "新着情報"
+
+#: functions.php:103
+#, php-format
+msgid "Page %s"
+msgstr "%sページ"
+
+#: functions.php:230
+msgid "Read more &raquo;"
+msgstr ""
+
+#: functions.php:275
+msgid "Archives"
+msgstr ""
+
+#: functions.php:412
+msgid "News"
+msgstr ""
+
+#: functions.php:444
+msgid "Archive list &gt;"
+msgstr ""
+
+#: header.php:16
+msgid "Main menu"
+msgstr "メインメニュー"
+
+#: header.php:17
+msgid "Open MENU"
+msgstr "メニューを開く"
+
+#~ msgid "View all posts in %s"
+#~ msgstr "%s の投稿をすべて表示"
+
+#~ msgid "Slide"
+#~ msgstr "スライド"
+
+#~ msgid "Add New %s"
+#~ msgstr "%sの追加"
+
+#~ msgid "Edit %s"
+#~ msgstr "%sを編集"
+
+#~ msgid "New %s"
+#~ msgstr "新規%s"
+
+#~ msgid "View %s"
+#~ msgstr "%sを表示"
+
+#~ msgid "Search %s"
+#~ msgstr "%sを検索"
+
+#~ msgid "No %s found."
+#~ msgstr "%sは見つかりませんでした。"
+
+#~ msgid "No %s found in Trash."
+#~ msgstr "ゴミ箱内に%sが見つかりませんでした。"
+
+#~ msgid "Footer Area One"
+#~ msgstr "1番目のフッターウィジェット"
+
+#~ msgid "Footer Area Two"
+#~ msgstr "2番目のフッターウィジェット"
+
+#~ msgid "Footer Area Three"
+#~ msgstr "3番目のフッターウィジェット"
+
+#~ msgid "Footer Area Four"
+#~ msgstr "4番目のフッターウィジェット"
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view any comments."
+#~ msgstr ""
+#~ "この投稿はパスワードで保護されています。コメントを閲覧するにはパスワードを"
+#~ "入力してください。"
+
+#~ msgid "Comment %s"
+#~ msgstr "%s コメント"
+
+#~ msgid "&larr; Older Comments"
+#~ msgstr "過去のコメント"
+
+#~ msgid "Newer Comments &rarr;"
+#~ msgstr "新しいコメント"
+
+#~ msgid "Comments are closed."
+#~ msgstr "コメントは停止中です。"
+
+#~ msgid "Local information"
+#~ msgstr "地域情報"
+
+#~ msgid "Blog Categories"
+#~ msgstr "ブログカテゴリー"
+
+#~ msgid "All %s"
+#~ msgstr "すべての%s"
+
+#~ msgid "Update %s"
+#~ msgstr "%sを更新"
+
+#~ msgid "New %s Name"
+#~ msgstr "新規%s名"
+
+#~ msgid "Side Widget"
+#~ msgstr "サイドウィジェット"
+
+#~ msgid "View TOP Page"
+#~ msgstr "TOPページに表示"
+
+#~ msgid "Slide settings"
+#~ msgstr "スライドの設定"
+
+#~ msgid "Site Description"
+#~ msgstr "ロゴ横の画像"
+
+#~ msgid "Phone Number"
+#~ msgstr "電話番号"
+
+#~ msgid "Copyright"
+#~ msgstr "コピーライト"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "%sの一覧"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "%sの一覧"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "%sの一覧"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "%sの一覧"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "%sの一覧"
+
+#~ msgid "Taxonomy Archives: %s"
+#~ msgstr "%sの一覧"
+
+#~ msgid "Post Type Archives: %s"
+#~ msgstr "%s"
+
+#~ msgid "Search Results for: %s %s"
+#~ msgstr "%sの検索結果(%s件)"
+
+#~ msgid "Author Archives: %s"
+#~ msgstr "%sの一覧"
+
+#~ msgid "Pingback:"
+#~ msgstr "ピンバック:"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s %2$s"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "あなたのコメントは承認待ちです。"
+
+#~ msgid "Reply &darr;"
+#~ msgstr "返信"
+
+#~ msgid "Comment"
+#~ msgstr "コメントする"
+
+#~ msgid "About NewsStand"
+#~ msgstr "新聞販売店について"
+
+#~ msgid "Search"
+#~ msgstr "サイト内検索"
+
+#~ msgid "Post author"
+#~ msgstr "投稿者"
